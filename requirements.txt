@@ -1,6 +1,7 @@
 absl-py @ file:///tmp/build/80754af9/absl-py_1607439979954/work
 aiohttp @ file:///C:/ci/aiohttp_1602512552257/work
 alabaster==0.7.12
+python==3.6.8
 appdirs==1.4.4
 argh==0.26.2
 argon2-cffi @ file:///C:/ci/argon2-cffi_1596826740294/work
